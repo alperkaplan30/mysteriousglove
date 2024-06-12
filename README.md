@@ -1,6 +1,7 @@
 # Mysterious Glove
 It is a third-person character-based game based on survival against bots, developed with 'Unreal Engine 5'. The goal is to survive the longest time (improve the record) by killing spawned bots with the help of the character's abilities and using interactive items (health, gold, etc.) on the map.
 
+![](https://github.com/alperkaplan30/mysteriousglove/blob/master/Content/Splash/%C3%9CstModel.png)
 # Project Features
 - Third-person character movement
 - Dash ability
